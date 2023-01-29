@@ -10,13 +10,13 @@
 
 ## MusicAI in a Click
 
-* [🔉 Fairlaunch  Pinksale](https://www.pinksale.finance/)
+* [🔉 Fairlaunch  Pinksale (coming soon)](https://www.pinksale.finance/)
 * [🔊 Dapp MusicAI](https://app.music-ai.app/)
 * [🔉 Social Media MusicAI](https://app.music-ai.app/)
 * [🔊 Opensea MusicAI](https://app.music-ai.app/)
-* [🔉 Telegram Bot](https://t.me/c/1841175921/676)
-* [🔊 KYC](https://app.music-ai.app/)
-* [🔉 Audit](https://app.music-ai.app/)
+* [🔉 Telegram Bot](https://t.me/musicai\_gpt3\_bot)
+* [🔊 KYC (coming soon)](https://app.music-ai.app/)
+* [🔉 Audit (coming soon)](https://app.music-ai.app/)
 
 ## FEATURES
 
