@@ -19,4 +19,17 @@ _These great features have helped Telegram to be very popular._
 
 #### _There are over 500 million active users on Telegram and this is growing rapidly._
 
+#### Telegram MusicAI Bot
+
+\-> _We developed an artificial intelligence to act in Telegram, with it our investors may have immediate responses with characters and images, but of course ! our big difference ... our telegram bot will send you your favorite song in seconds! just ask him he will send you ... Totally practical, no search ! no ads ..._
+
+#### _Ask anything to the MusicAI Music / GPT3 / DALL-E_
+
+1. _Use / helpmusicai show all commands_
+2. _Use / ask any question in chat_
+3. _Use / create to generate a image 1024x1024_
+4. _Use / music to get a list of songs based on genre or name_
+
+{% embed url="https://t.me/musicai_gpt3_bot" %}
+
 __
