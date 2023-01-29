@@ -15,7 +15,7 @@ _-> Music AI {MusicAI} - We are a decentralized platform, where we believe in an
 * _**Telegram bot -**_ [_**Click here**_](features/artificial-intelligence-ai.md)_****_
 * _**Unique NFT's -**_ [_**Click here**_](group-1/nfts-concept.md)_****_
 * _**Metaverse MusicAI -**_ [_**Click here**_](features/metaverse.md)_****_
-* among other features
+* _**Among other features**_
 
 \-> Our main goal is to give our investors a chance to listen and win; we know that music accompanies us in several daily and routine activities.
 

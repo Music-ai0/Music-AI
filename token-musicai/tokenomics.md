@@ -5,7 +5,9 @@ coverY: 0
 
 # 🔉 Tokenomics
 
-#### Total Supply: ****&#x20;
+#### Contract: 0x0Ec674FAbb4eA1935514A7be760f7e13aA466A39
+
+#### Total Supply: **** 500,000,000 MusicAI
 
 **Project Name: Music AI**
 
@@ -30,3 +32,5 @@ coverY: 0
 **Tokens For Liquidity:**&#x20;
 
 **Soft Cap: BNB**
+
+{% embed url="https://bscscan.com/token/0x0ec674fabb4ea1935514a7be760f7e13aa466a39" %}
