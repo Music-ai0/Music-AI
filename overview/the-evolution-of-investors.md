@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/CAPA GIT.png
 coverY: 0
 ---
 
@@ -11,4 +12,3 @@ _-> Even though it has risks, as everyone knows, the market presents great profi
 #### _Opportunities go beyond Bitcoin_
 
 _-> We don't need to go too far to prove that Bitcoin is not the only opportunity; Metaverse, artificial intelligence and NFT's already serve as great examples._
-
