@@ -21,4 +21,6 @@ _-> Music AI {MusicAI} - We are a decentralized platform, where we believe in an
 
 \-> But beyond this financial benefit, we also have an exclusive collection, which will have benefits to holders, as decision in some positions of Music AI, will also have the valuation of their NFT's as well as soon upgrades, even customizations, all through the metaverse exclusive Music AI.
 
+{% embed url="https://www.youtube.com/watch?v=7J0PiDOzUKQ" %}
+
 __
