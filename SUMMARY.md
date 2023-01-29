@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-* [Music AI](README.md)
+* [🎵 Music AI](README.md)
 * [🎵 10 Benefits of Music](overview/10-benefits-of-music.md)
 * [🎵 The evolution of investors](overview/the-evolution-of-investors.md)
 * [🎵 Our mission](overview/our-mission.md)
