@@ -17,3 +17,4 @@
 * [🔊 Blockchain and Web3 at Music AI](group-1/blockchain-and-web3-at-music-ai.md)
 * [🔉 DeFi Concept](group-1/defi-concept.md)
 * [🔊 DAO and Anti-Dump](group-1/dao-and-anti-dump.md)
+* [🔉 NFT's Concept](group-1/nfts-concept.md)
