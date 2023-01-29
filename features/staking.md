@@ -56,3 +56,7 @@ _**Plan B**_
 * _30%-will be shared in MusicAI fund_
 * _5%-Liquidity pool_
 * _5%-Burn_
+
+{% embed url="https://music-ai.app/" %}
+_**Access the Staking tab**_
+{% endembed %}
