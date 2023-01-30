@@ -15,22 +15,16 @@ coverY: 0
 
 **Blockchain:** **BEP20**
 
-* [x] **Presale: %**
-* [x] **Liquidity: %**
-* [x] **Aidrop: %**
-* [x] **Burnt: %**
-* [x] **Staking: %**
+**Presale Start Time: 2023.02.01 14:00 (UTC)**
 
-**Presale Start Time:**&#x20;
-
-**Presale End Time:**&#x20;
+**Presale End Time: 2023.02.03 15:00 (UTC)**
 
 **Listing On**: **PancakeSwap**
 
-**Tokens For Presale:**&#x20;
+**Tokens For Presale: 168,000,000**
 
-**Tokens For Liquidity:**&#x20;
+**Tokens For Liquidity: 81,396,000**
 
-**Soft Cap: BNB**
+**Soft Cap: 50 BNB**
 
 {% embed url="https://bscscan.com/token/0x0ec674fabb4ea1935514a7be760f7e13aa466a39" %}
