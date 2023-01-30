@@ -11,7 +11,7 @@
 ## MusicAI in a Click
 
 * [🔉 Fairlaunch  Pinksale (coming soon)](https://www.pinksale.finance/)
-* [🔉 Social Media MusicAI](https://linktr.ee/musiai)
+* [🔉 Social Media MusicAI](https://linktr.ee/musicai\_)
 * [🔊 Dapp MusicAI](https://app.music-ai.app/)
 * [🔉 Telegram Bot](https://t.me/musicai\_gpt3\_bot)
 * [🔊 Opensea MusicAI (Coming soon)](https://app.music-ai.app/)
