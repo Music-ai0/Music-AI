@@ -40,12 +40,4 @@ _-> We will develop a totally special collection for our investors, where at fir
 
 _-> This available collection will have several benefits, including the inclusion in events that we are on the roadmap to integrate our partners and investors who have purchased our NFT's. A unique opportunity to be all together and discuss all MusicAI updates._
 
-<div>
-
 <figure><img src="../.gitbook/assets/Byonce.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Michael Jackson.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
