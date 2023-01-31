@@ -14,7 +14,7 @@
 * [🔉 Social Media MusicAI](https://linktr.ee/musicai\_)
 * [🔊 Dapp MusicAI](https://app.music-ai.app/)
 * [🔉 Telegram Bot](https://t.me/musicai\_gpt3\_bot)
-* [🔊 Opensea MusicAI (Coming soon)](https://app.music-ai.app/)
+* [🔊 Opensea MusicAI ](https://opensea.io/Music\_AI)
 * [🔊 KYC ](https://pinksale.notion.site/Music-AI-KYC-Verification-491affe412e148ae94bc863c04328a8d)
 * [🔉 Audit ](https://blocksafu.com/project-detail/0x0Ec674FAbb4eA1935514A7be760f7e13aA466A39)
 

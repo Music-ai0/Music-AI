@@ -40,4 +40,20 @@ _-> We will develop a totally special collection for our investors, where at fir
 
 _-> This available collection will have several benefits, including the inclusion in events that we are on the roadmap to integrate our partners and investors who have purchased our NFT's. A unique opportunity to be all together and discuss all MusicAI updates._
 
+_-> Initially we will have 19 unique NFT's as per the model below._
+
+{% embed url="https://opensea.io/Music_AI" %}
+
+<div>
+
 <figure><img src="../.gitbook/assets/Byonce.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/22 Michael Jackson.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/13.ed sheeran.png" alt=""><figcaption></figcaption></figure>
+
+</div>
