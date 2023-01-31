@@ -8,6 +8,6 @@ coverY: 0
 
 #### _Coming soon..._
 
-_-> We have as a major purpose the security, speed and ease to our investors, so we will provide newly created tokens with growth potential, but that have security as a principle, and by going through this validation process, they will be able to be included in our Launchpad._
+_-> Our main goal is to ensure security, speed, and ease for our investors. That's why we will provide newly created tokens with growth potential that prioritize security. These tokens will go through a validation process before being included in our Launchpad._
 
-_-> Our investors will have a complete and secure platform to perform all the flow of their pre-sales, and best of all, in an automated way._
+_-> Our investors will have access to a complete and secure platform to handle their pre-sales, all in an automated manner._

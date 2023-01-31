@@ -5,18 +5,18 @@ coverY: 0
 
 # 🔉 Staking
 
-\-> _We will offer MusicAI token holders fixed interest rates based on the staking plans purchased: We have two staking plans available, fully reflecting the amount of token users have._
+\->_We will offer fixed interest rates to MusicAI token holders based on the staking plan they purchase. We have two staking plans available, which fully reflect the amount of tokens the user has._
 
-_**Here are some guidelines to follow:**_
+#### Guidelines_**:**_
 
-* _Investors will not be able to unwind your investment before the expiration date_&#x20;
-* _After the scheduled staking has been completed, investors can withdraw their profit, which will be deposited directly into their wallets, or they can extend the staking, which will accrue interest._
+* &#x20;_Investors cannot withdraw their investment before the expiration date._
+* _After the staking period has been completed, investors can withdraw their profits, which will be deposited directly into their wallets, or they can extend the staking and earn more interest._
 
-_-> Our main goal in our project is security, and with this we will have constant audits that will guarantee our investors reliability._
+_-> Our main goal is security, and to achieve this we will conduct constant audits to ensure the reliability of our investors._
 
-_-> Below we will address the two possible plans, in the initial phase of the project, as we have two more updates with new APY plans. We will condition artists who partner with us to a percentage of our investors' monthly fees, giving them the possibility of even greater projections._
+_-> Below, we will describe the two available staking plans, which are the initial ones. We will add two more updates with new APY plans later. We will also require our partnered artists to receive a percentage of our investors' monthly fees, providing them with greater earning potential._
 
-**Addendum: The investor to perform staking, must have $50 in MusicAI**
+#### Addendum: To participate in staking, an investor must have $50 in MusicAI.
 
 |   Tuition   | Singer | Investors |
 | :---------: | :----: | :-------: |
@@ -46,16 +46,16 @@ _Reward tokens are minted from the reserved tokens of 50% of the initial supply_
 _**Plan A**_
 
 * _30%-will be shared between artists and listeners_&#x20;
-* _30%-will be shared in MusicAI's fund_
-* _30%-Liquidity pool_
-* _10%-Burn_
+* _30%-will be in the MusicAI fund._
+* _30%-will be in the liquidity pool._
+* _10%-will be burned._
 
 _**Plan B**_
 
 * _60%-will be shared between artists and listeners_&#x20;
 * _30%-will be shared in MusicAI fund_
-* _5%-Liquidity pool_
-* _5%-Burn_
+* _5%-will be in the liquidity pool._
+* _5%-will be burned._
 
 {% embed url="https://music-ai.app/" %}
 _**Access the Staking tab**_

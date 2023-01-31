@@ -17,6 +17,6 @@ coverY: 0
 | Cex Listing       |    10%   |
 | Dapp Listen AI    |    15%   |
 
-#### _Totally zero taxes ! - 0% on purchases and 0% on sales !_
+#### "Totally zero taxes! 0% on purchases and 0% on sales!
 
-_We will condition our investors to a fee-free project during their transactions._
+We will offer our investors a fee-free project during their transactions."

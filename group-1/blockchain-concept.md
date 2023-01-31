@@ -9,12 +9,12 @@ coverY: 0
 
 #### _Immutability_
 
-_-> The blockchain has several particularities, and one of them is the immutability, where there are no possibilities of changes, making the blockchain a permanent and unalterable network, thus diverging from traditional systems that are banks, concentrated in centralized authorities. Another important factor is the backups of blockchain resources, once the transactions are put into registers, there is no possibility of alteration or even going back to the operation. With this, we have a system free of corruption, where it is not possible to hack, change or even steal information._
+_-> The blockchain has several unique features, and one of them is immutability, where there is no possibility of changes. This makes the blockchain a permanent and unalterable network, which differs from traditional centralized systems like banks. Another important factor is the backup of blockchain resources. Once transactions are recorded, they cannot be altered or undone. This creates a system that is immune to corruption and information cannot be hacked, changed, or stolen._
 
 #### _Decentralization_
 
-_-> Everything in blockchain is very transparent and organized, which does not depend in any way on human calculations, totally intolerant to failures. We can highlight this point as one of the most beneficial of blockchain, with the decentralization, all our investors have control over their financial property, without depending on third parties or even institutions to maintain the balance of assets, the decentralized nature of the technology creates a transparent profile of each investor. Every change in blockchain is visible and makes it more concrete._
+_-> Everything in blockchain is transparent and organized, and it doesn't rely on human calculations, making it immune to failures. One of the most beneficial aspects of blockchain is decentralization. This gives all investors control over their financial assets without relying on third parties or institutions to maintain their balance. The decentralized nature of the technology creates a transparent profile of each investor. Every change in the blockchain is visible, making it more solid._
 
 #### _Consensus_
 
-_-> All changes are subject to a community consensus, so we pass network reliability, in a nutshell it is a decision making process for the group active in the network. Here, we can reach an agreement quickly, with the security of a system running in its core._
+_->All changes are subject to a community consensus, which ensures network reliability. In a nutshell, this is a decision-making process for the active group in the network. Here, we can reach an agreement quickly and with the security of a well-functioning system at its core._

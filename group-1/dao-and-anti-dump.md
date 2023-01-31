@@ -5,10 +5,12 @@ coverY: 0
 
 # 🔊 DAO and Anti-Dump
 
-#### _DAO Governance_
+#### DAO Governance
 
-_-> The true nature of blockchain is decentralization, which is increasingly supported by the community. In particular, the emergence of DAOs shows the great need for transparency and decentralization, one of Music AI goals._
+_-> The essence of blockchain technology is decentralization, which is increasingly embraced by the community. Specifically, the rise of DAOs (Decentralized Autonomous Organizations) highlights the strong demand for transparency and decentralization, one of the main goals of Music AI._
 
-#### _Anti-Dump_
+&#x20;
 
-_-> We will have an antidumping system, where the BSC protocol determines the architectural projection of transactions and blockchain. With this, we will have 15 blocks, where there will be no transactions, and with this all negotiations will be executed via blockchain, where we have total transparency and security for our investors, a mathematical algorithm of a high level of complexity, which acts as a firewall to extinguish attacks, and if it is necessary to validate information, we have a hash, where all encrypted information is stored._
+#### Anti-Dump
+
+_-> We will implement an anti-dumping system in which the BSC protocol governs the architecture of transactions and the blockchain. This system will consist of 15 blocks during which no transactions will occur. All transactions will be executed on the blockchain, providing complete transparency and security for our investors. The system also employs a high-level, complex mathematical algorithm that acts as a firewall against attacks. To validate information, we use a hash that stores all encrypted information._
