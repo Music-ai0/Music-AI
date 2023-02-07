@@ -17,6 +17,7 @@
 * [🔊 Opensea MusicAI ](https://opensea.io/Music\_AI)
 * [🔊 KYC ](https://pinksale.notion.site/Music-AI-KYC-Verification-491affe412e148ae94bc863c04328a8d)
 * [🔉 Audit ](https://blocksafu.com/project-detail/0x0Ec674FAbb4eA1935514A7be760f7e13aA466A39)
+* [🔊 Fairlaunch ETH Pinksale](https://www.pinksale.finance/launchpad/0x5EbD4eE61E9Ff84ea292e123e3Aed2C745c028BF?chain=ETH)
 
 ## FEATURES
 
